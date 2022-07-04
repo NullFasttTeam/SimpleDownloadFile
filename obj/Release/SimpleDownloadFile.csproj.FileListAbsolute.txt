@@ -1,0 +1,6 @@
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\bin\Release\SimpleDownloadFile.dll
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\bin\Release\SimpleDownloadFile.pdb
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\obj\Release\SimpleDownloadFile.csproj.AssemblyReference.cache
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\obj\Release\SimpleDownloadFile.csproj.CoreCompileInputs.cache
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\obj\Release\SimpleDownloadFile.dll
+C:\Users\hugof\OneDrive\Escritorio\proyectos\SimpleDownloadFile\obj\Release\SimpleDownloadFile.pdb
